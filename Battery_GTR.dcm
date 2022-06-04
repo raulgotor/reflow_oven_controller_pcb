@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 18650_Battery_Series
+D 18650 Lithium-Ion Battery Holders
+K http://www.keyelco.com/product-pdf.cfm?p=13959
+$ENDCMP
+#
+#End Doc Library
